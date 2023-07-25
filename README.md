@@ -1,4 +1,4 @@
-Sure! Below is the content in README format with tables for the models:
+
 
 # House Cleaning App
 
